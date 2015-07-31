@@ -1,0 +1,15 @@
+{
+  "name": "jq_assign3",
+  "version": "0.0.1",
+  "authors": [
+    "Timothy Shiu <timoshiu@timomac.local>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

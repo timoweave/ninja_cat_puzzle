@@ -1,0 +1,5 @@
+.puzzle_image {
+    display: block;
+    box-sizing: border-box;
+    padding: 0.1em 2em;
+}
